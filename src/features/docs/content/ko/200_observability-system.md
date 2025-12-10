@@ -12,7 +12,7 @@
 
 본 문서에서 제안한 Observability 계층 모델은 CNCF Glossary, IBM Observability Pillars, Google SRE의 Troubleshooting Methodology 등 기존 문헌에서 확인되는 공통 개념을 정합적으로 구조화한 것으로, Observability의 핵심 구성 요소와 문제 진단 절차를 단계적으로 설명하기 위한 하나의 개념적 프레임워크로 기능한다.
 
-![observability_hierarchy](/images/docs/observability_hierarchy.svg)
+![observability_hierarchy](/images/docs/observability-system/observability_hierarchy.svg)
 
 > **_“Observability is a system property that defines the degree to which the system can generate actionable insights. It allows users to understand a system’s state from these external outputs and take (corrective) action.”_**[Observability-glossary.cncf.io](https://glossary.cncf.io/observability/?utm_source=chatgpt.com)
 
@@ -30,7 +30,7 @@
 
 결과적으로 시스템을 얼마나 관찰할 수 있는지에 따라 운영 및 개발 비용에 큰 영향을 미칩니다.
 
-![observability_hierarchy](/images/docs/observability_hierarchy_detail.svg)
+![observability_hierarchy](/images/docs/observability-system/observability_hierarchy_detail.svg)
 
 ## 2. Core Components of Observability
 
